@@ -1,4 +1,4 @@
-# Incestigating the Relationship Between Aplle (AAPL) Trading Volume and Future Stock Price
+# Incestigating the Relationship Between Applle (AAPL) Trading Volume and Future Stock Price
 
 ## Description
 This project investigates the relationship between the trading volume of Apple (AAPL) stock and its future price using time series data from Yahoo Finance. The goal is to identify any correlations or patterns that can inform investment decisions.
