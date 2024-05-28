@@ -28,19 +28,19 @@ Yahoo Finance: https://finance.yahoo.com/
 The project involves the following steps:
 
 Data collection and cleaning
-Data analysis using Excel formulas and data analysis tools
-Data visualization using histograms
-Regression analysis using R (simple, multiple, and non-linear)
+Data analysis and visualization using Excel formulas and data analysis tools
+Regression analysis (simple, multiple, and non-linear) and data visualization using R 
+
 
 ## Results
 
 This project includes the following files:
 
-Data: The raw time series data from Yahoo Finance used in the project.
-Excel files: The Excel files containing the data analysis and visualization outputs.
-R scripts: The R scripts used to perform the regression analyses.
-Writeup: A detailed PDF file interpreting every step of the project, including visualizations and results.
-All files are uploaded to this GitHub repository for easy access.
+
+Excel file: The Excel files containing the raw time series data from Yahoo Finance used in the project. As well as, data analysis and visualization outputs. Available in the `AAPL.xlsx` file.
+R scripts: The R scripts used to perform the regression analyses.  Available in the `Project.R` file.
+Writeup: A detailed PDF file interpreting every step of the project, including visualizations and results.  Available in the `ProjectWriteup.pdf` file.
+All files are uploaded to this GitHub repository for easy access. 
 
 ## Conclusion
 
