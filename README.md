@@ -1,9 +1,9 @@
-#Investigating the Relationship Between Apple (AAPL) Trading Volume and Future Stock Price
+# Incestigating the Relationship Between Aplle (AAPL) Trading Volume and Future Stock Price
 
-##Description
+## Description
 This project investigates the relationship between the trading volume of Apple (AAPL) stock and its future price using time series data from Yahoo Finance. The goal is to identify any correlations or patterns that can inform investment decisions.
 
-##Table of Contents
+## Table of Contents
 
 - [General Info](#general-info)
 - [Data Sources](#data-sources)
@@ -13,17 +13,17 @@ This project investigates the relationship between the trading volume of Apple (
 - [Contact](#contact)
 
 
-##General Info
+## General Info
 
 This project is a data analysis and visualization project that uses time series data from Yahoo Finance to explore the relationship between AAPL trading volume and future stock price.
 
-##Data Sources
+## Data Sources
 
 The dataset used in this project is:
 
 Yahoo Finance: https://finance.yahoo.com/
 
-##Methodology
+## Methodology
 
 The project involves the following steps:
 
@@ -32,7 +32,7 @@ Data analysis using Excel formulas and data analysis tools
 Data visualization using histograms
 Regression analysis using R (simple, multiple, and non-linear)
 
-##Results
+## Results
 
 This project includes the following files:
 
@@ -42,15 +42,15 @@ R scripts: The R scripts used to perform the regression analyses.
 Writeup: A detailed PDF file interpreting every step of the project, including visualizations and results.
 All files are uploaded to this GitHub repository for easy access.
 
-##Conclusion
+## Conclusion
 
 The project aims to provide insights into the relationship between AAPL trading volume and future stock price, and to identify any patterns or correlations that can inform investment decisions.
 
-##Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-##Contact
+## Contact
 
 [Amirani-Kvariani] - [AMIRANIKVARIANI@GMAIL.COM]
 
